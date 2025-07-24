@@ -130,7 +130,7 @@ export const About = (): JSX.Element => {
               <li><a href="https://x.com/heysti_" className="text-black font-medium text-sm hover:opacity-70">X</a></li>
               <li><a href="http://instagram.com/useheysti" className="text-black font-medium text-sm hover:opacity-70">Instagram</a></li>
               <li><a href="#" className="text-black font-medium text-sm hover:opacity-70">LinkedIn</a></li>
-              <li><a href="mailto:pgirldesign@gmail.com" className="text-black font-medium text-sm hover:opacity-70">Email</a></li>
+              <li><a href="mailto:info@heysti.com" className="text-black font-medium text-sm hover:opacity-70">Email</a></li>
             </ul>
             <div className="text-black font-medium text-sm">
               © Heysti {new Date().getFullYear()}
