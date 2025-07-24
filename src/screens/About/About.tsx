@@ -89,14 +89,13 @@ export const About = (): JSX.Element => {
         </header>
 
         {/* Main Content */}
-        <div className="flex-1 flex items-center justify-center px-4 sm:px-8 py-8 sm:py-24 overflow-visible">
-          <div className="max-w-xl w-full mx-auto text-left">
+        <div className="flex-1 flex items-center justify-center px-4 sm:px-8 py-8 sm:py-24">
+          <div className="max-w-xl w-full mx-auto text-left mt-8 sm:mt-12">
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-normal text-black mb-6 sm:mb-8 leading-tight font-recoleta">
               To,<br />
-              Creators, builders, storytellers,<br />
-              founders, researchers
+              Creators, builders, devs, storytellers,<br />
+              founders, freelancers, studio leads
             </h1>
-
             <div className="space-y-8 sm:space-y-8 text-base sm:text-lg text-black leading-relaxed">
               <p>
                 Heysti is your creative co-pilot to give you your time back.<br />
@@ -105,26 +104,26 @@ export const About = (): JSX.Element => {
               </p>
 
               <p>
-                We automate the business side so you can stay in the<br />
-                zone, meet your deadlines, and still have room to breathe<br />
-                (and even sleep).
+                We automate the business side so you can stay in the zone,<br />
+                meet your deadlines, and still have room to breathe<br />
+                (and maybe sleep).
               </p>
 
               <p>
-                Heysti helps you show up as your best self. That part of<br />
-                you that's not buried in admin, but alive in the work you<br />
+                Heysti helps you show up as your best self. That part of you<br />
+                that's not buried in admin, but alive in the work you<br />
                 actually love.
               </p>
             </div>
 
-            <div className="mt-16 sm:mt-20">
+            <div className="mt-8 sm:mt-18">
               <img src="/Heystilogo.svg" alt="Heysti signature" className="h-12 sm:h-16 opacity-80" />
             </div>
           </div>
         </div>
 
         {/* Footer */}
-        <footer className="relative z-10 flex-shrink-0 p-4 sm:p-8">
+        <footer className="relative z-10 flex-shrink-0 p-4 sm:p-8 mt-0 sm:mt-2">
           {/* Mobile: Left-aligned layout with social links above copyright */}
           <div className="sm:hidden">
             <ul className="flex flex-col gap-3 mb-6">
@@ -134,14 +133,14 @@ export const About = (): JSX.Element => {
               <li><a href="mailto:pgirldesign@gmail.com" className="text-black font-medium text-sm hover:opacity-70">Email</a></li>
             </ul>
             <div className="text-black font-medium text-sm">
-              © Heysti 2025
+              © Heysti {new Date().getFullYear()}
             </div>
           </div>
           
           {/* Desktop: Horizontal layout */}
           <div className="hidden sm:flex items-center justify-between w-full">
             <div className="text-black font-medium text-base">
-              © Heysti 2025
+              © Heysti {new Date().getFullYear()}
             </div>
             <div className="flex items-center gap-6">
               <a href="https://x.com/heysti_" className="text-black font-medium text-base hover:opacity-70">

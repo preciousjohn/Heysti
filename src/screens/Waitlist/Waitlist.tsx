@@ -246,14 +246,14 @@ export const Waitlist = (): JSX.Element => {
               <li><a href="mailto:pgirldesign@gmail.com" className="text-black font-medium text-sm hover:opacity-70">Email</a></li>
             </ul>
             <div className="text-black font-medium text-sm">
-              © Heysti 2025
+              © Heysti {new Date().getFullYear()}
             </div>
           </div>
           
           {/* Desktop: Horizontal layout */}
           <div className="hidden sm:flex items-center justify-between w-full">
             <div className="text-black font-medium text-base">
-              © Heysti 2025
+              © Heysti {new Date().getFullYear()}
             </div>
             <div className="flex items-center gap-6">
               <a href="https://x.com/heysti_" className="text-black font-medium text-base hover:opacity-70">
