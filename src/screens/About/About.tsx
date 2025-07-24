@@ -90,11 +90,9 @@ export const About = (): JSX.Element => {
 
         {/* Main Content */}
         <div className="flex-1 flex items-center justify-center px-4 sm:px-8 py-8 sm:py-24">
-          <div className="max-w-xl w-full mx-auto text-left mt-8 sm:mt-12">
+          <div className="max-w-xs sm:max-w-xl w-full mx-auto text-left mt-8 sm:mt-12">
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-normal text-black mb-6 sm:mb-8 leading-tight font-recoleta">
-              To,<br />
-              Creators, builders, devs, storytellers,<br />
-              founders, freelancers, studio leads
+              To, Creators, builders, devs, storytellers, founders, freelancers, studio leads
             </h1>
             <div className="space-y-8 sm:space-y-8 text-base sm:text-lg text-black leading-relaxed">
               <p>
