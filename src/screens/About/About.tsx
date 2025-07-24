@@ -95,22 +95,16 @@ export const About = (): JSX.Element => {
               To, Creators, builders, devs, storytellers, founders, freelancers, studio leads
             </h1>
             <div className="space-y-8 sm:space-y-8 text-base sm:text-lg text-black leading-relaxed">
-              <p>
-                Heysti is your creative co-pilot to give you your time back.<br />
-                We're building for the dreamers, the self-starters, the ones<br />
-                stitching brands, pixels, and stories into magic.
+              <p className="max-w-xs sm:max-w-xl">
+                Heysti is your creative co-pilot to give you your time back. We're building for the dreamers, the self-starters, the ones stitching brands, pixels, and stories into compelling, impactful experiences.
               </p>
 
-              <p>
-                We automate the business side so you can stay in the zone,<br />
-                meet your deadlines, and still have room to breathe<br />
-                (and maybe sleep).
+              <p className="max-w-xs sm:max-w-xl">
+                We automate the business side so you can stay in the zone, meet your deadlines, and still have room to breathe (and maybe sleep).
               </p>
 
-              <p>
-                Heysti helps you show up as your best self. That part of you<br />
-                that's not buried in admin, but alive in the work you<br />
-                actually love.
+              <p className="max-w-xs sm:max-w-xl">
+                Heysti helps you show up as your best self. That part of you that's not buried in admin, but alive in the work you actually love.
               </p>
             </div>
 
