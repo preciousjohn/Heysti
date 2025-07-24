@@ -1,25 +1,27 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="32" height="32" fill="#0A0A0A"/>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="32" height="32" fill="#0A0A0A"></rect>
 <g filter="url(#filter0_g_59_82)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M9 7.52061C9.30568 10.7591 9.91027 12.2084 11.9355 14.0033C9.11124 18.4596 8.81034 22.1252 9.22581 23.8391C9.64127 25.553 10.9213 26 12.086 26C15.1752 26 16.3143 22.965 17.1905 20.6302C17.6807 19.3242 17.9133 17.7913 18.5667 17.9757C19.22 18.1602 18.9283 18.5096 18.7097 19.7644C18.5284 20.8048 18.871 22.2044 19.2366 23.0158C19.7683 24.196 21.3441 25.6274 21.3441 25.6274L23 23.69C23 23.69 22.2902 22.9183 21.9462 22.3488C21.3784 21.4088 21.5811 20.4076 21.7772 19.439C21.9948 18.3642 22.2043 17.3293 21.3441 16.4622C20.7153 15.8284 20.2278 15.5807 19.3871 15.27C17.1221 14.4329 15.882 17.2365 14.7638 19.7644C13.8902 21.7394 13.0909 23.5463 11.9355 23.3175C9.30108 22.7958 14.2688 14.8974 14.2688 14.8974C14.596 15.5692 24.9557 14.3198 22.5484 9.30904C20.3039 4.63722 16.8713 8.15504 14.8077 10.2699C14.1724 10.921 13.6668 11.4391 13.3656 11.5443C12.1158 11.9811 12.0149 10.5694 11.9407 9.53137C11.939 9.50668 11.9372 9.4822 11.9355 9.45796C11.8602 8.41477 11.9355 7.52061 11.9355 7.52061H9ZM20.1398 10.5929C20.1398 12.3559 16.4483 12.215 16.4483 12.215C16.4483 12.215 17.957 11.5443 19.4657 9.58979C19.8177 9.13376 20.1398 10.0541 20.1398 10.5929Z" fill="url(#paint0_linear_59_82)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 7.52061C9.30568 10.7591 9.91027 12.2084 11.9355 14.0033C9.11124 18.4596 8.81034 22.1252 9.22581 23.8391C9.64127 25.553 10.9213 26 12.086 26C15.1752 26 16.3143 22.965 17.1905 20.6302C17.6807 19.3242 17.9133 17.7913 18.5667 17.9757C19.22 18.1602 18.9283 18.5096 18.7097 19.7644C18.5284 20.8048 18.871 22.2044 19.2366 23.0158C19.7683 24.196 21.3441 25.6274 21.3441 25.6274L23 23.69C23 23.69 22.2902 22.9183 21.9462 22.3488C21.3784 21.4088 21.5811 20.4076 21.7772 19.439C21.9948 18.3642 22.2043 17.3293 21.3441 16.4622C20.7153 15.8284 20.2278 15.5807 19.3871 15.27C17.1221 14.4329 15.882 17.2365 14.7638 19.7644C13.8902 21.7394 13.0909 23.5463 11.9355 23.3175C9.30108 22.7958 14.2688 14.8974 14.2688 14.8974C14.596 15.5692 24.9557 14.3198 22.5484 9.30904C20.3039 4.63722 16.8713 8.15504 14.8077 10.2699C14.1724 10.921 13.6668 11.4391 13.3656 11.5443C12.1158 11.9811 12.0149 10.5694 11.9407 9.53137C11.939 9.50668 11.9372 9.4822 11.9355 9.45796C11.8602 8.41477 11.9355 7.52061 11.9355 7.52061H9ZM20.1398 10.5929C20.1398 12.3559 16.4483 12.215 16.4483 12.215C16.4483 12.215 17.957 11.5443 19.4657 9.58979C19.8177 9.13376 20.1398 10.0541 20.1398 10.5929Z" fill="url(#paint0_linear_59_82)"></path>
 </g>
 <defs>
-<filter id="filter0_g_59_82" x="8" y="6" width="16" height="21" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feTurbulence type="fractalNoise" baseFrequency="inf inf" numOctaves="3" seed="8189" />
-<feDisplacementMap in="shape" scale="2" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<filter id="SvgjsFilter1003" x="8" y="6" width="16" height="21" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+<feTurbulence type="fractalNoise" baseFrequency="inf inf" numOctaves="3" seed="8189"></feTurbulence>
+<feDisplacementMap in="shape" scale="2" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%"></feDisplacementMap>
 <feMerge result="effect1_texture_59_82">
-<feMergeNode in="displacedImage"/>
+<feMergeNode in="displacedImage"></feMergeNode>
 </feMerge>
 </filter>
-<linearGradient id="paint0_linear_59_82" x1="9.12441" y1="7" x2="24.868" y2="24.6418" gradientUnits="userSpaceOnUse">
-<stop stop-color="#9EFC5E" stop-opacity="0.66"/>
-<stop offset="0.217024" stop-color="#7CA5FF"/>
-<stop offset="0.364439" stop-color="#F1A229"/>
-<stop offset="0.665444" stop-color="#F44D44"/>
-<stop offset="0.784892" stop-color="#FF98D7"/>
-<stop offset="1" stop-color="#B7FF86"/>
+<linearGradient id="SvgjsLinearGradient1002" x1="9.12441" y1="7" x2="24.868" y2="24.6418" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9EFC5E" stop-opacity="0.66"></stop>
+<stop offset="0.217024" stop-color="#7CA5FF"></stop>
+<stop offset="0.364439" stop-color="#F1A229"></stop>
+<stop offset="0.665444" stop-color="#F44D44"></stop>
+<stop offset="0.784892" stop-color="#FF98D7"></stop>
+<stop offset="1" stop-color="#B7FF86"></stop>
 </linearGradient>
 </defs>
-</svg>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
