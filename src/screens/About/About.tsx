@@ -152,7 +152,7 @@ export const About = (): JSX.Element => {
               <a href="#" className="text-black font-medium text-base hover:opacity-70">
                 LinkedIn
               </a>
-              <a href="mailto:pgirldesign@gmail.com" className="text-black font-medium text-base hover:opacity-70">
+              <a href="mailto:info@heysti.com" className="text-black font-medium text-base hover:opacity-70">
                 Email
               </a>
             </div>
